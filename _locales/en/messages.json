@@ -1,0 +1,21 @@
+{
+  "extensionDescription": {
+    "message": "Delays loading the 'Google Sign In' code on non-Google websites for your privacy."
+  },
+
+  "toolbarTitle": {
+    "message": "Allow 'Google Sign In' for this website domain."
+  },
+
+  "toastAdded": {
+    "message": "$1 was added to the 'Google Sign In' whitelist"
+  },
+
+  "toastRemoved": {
+    "message": "$1 was removed from the whitelist"
+  },
+
+  "toastNoPerm": {
+    "message": "Permission is needed to add $1 to the 'Google Sign In' whitelist"
+  }
+}
