@@ -1,0 +1,1 @@
+# webextension-hide-google-sign-in
